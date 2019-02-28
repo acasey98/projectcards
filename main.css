@@ -4,7 +4,6 @@
 }
     .card{
         box-shadow:  10px 10px 5px 10px lightcoral;
-        background-color: gray;
         padding: 18px;
         margin: auto;
         margin-top: 10px;
@@ -35,4 +34,11 @@
         font-weight: bold;
        
     }
-    
+    .desc{
+        text-align: justify;
+    }
+    .avail{
+        color: yellow;
+        background-color: darkgray;
+        flex-grow: inherit;
+    }
