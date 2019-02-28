@@ -3,23 +3,36 @@
     flex-wrap: wrap;
 }
     .card{
-        border: 1 px lightblue;
-        box-shadow: 5 px 10 px lightcoral;
-        padding: 18 px;
+        box-shadow:  10px 10px 5px 10px lightcoral;
+        background-color: gray;
+        padding: 18px;
         margin: auto;
-        margin-top: 10 px;
+        margin-top: 10px;
         flex-flow: wrap;
         width: 28%;
-        background-color: gray;
+        
 
     }
+    .center{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    .cardtitle{
+        border: 1px solid lightblue;
+        text-align: center;
+    }
     .image{
-        size: 32 px 32 px;
+        size: 32px 32px;
 
     }
     .specs{
-        font-style: bold;
+        
+        font-weight: bold;
     }
     .price{
-        
+        font-weight: bold;
+       
     }
+    
