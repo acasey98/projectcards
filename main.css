@@ -3,19 +3,22 @@
     flex-wrap: wrap;
 }
     .card{
+        border: 1 px lightblue;
+        box-shadow: 5 px 10 px lightcoral;
         padding: 18 px;
         margin: auto;
         margin-top: 10 px;
         flex-flow: wrap;
         width: 28%;
-        background-color: darkgray;
+        background-color: gray;
 
     }
     .image{
+        size: 32 px 32 px;
 
     }
     .specs{
-
+        font-style: bold;
     }
     .price{
         
