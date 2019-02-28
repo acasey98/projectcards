@@ -1,3 +1,7 @@
-.container{
-    border: 
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
 }
+    .item{
+
+    }
