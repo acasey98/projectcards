@@ -2,6 +2,21 @@
     display: flex;
     flex-wrap: wrap;
 }
-    .item{
+    .card{
+        padding: 18 px;
+        margin: auto;
+        margin-top: 10 px;
+        flex-flow: wrap;
+        width: 28%;
+        background-color: darkgray;
 
+    }
+    .image{
+
+    }
+    .specs{
+
+    }
+    .price{
+        
     }
